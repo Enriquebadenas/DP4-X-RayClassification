@@ -1,0 +1,11 @@
+version: "3.4"
+services:
+  jupyter-notebook:
+    image: jupyter/scipy-notebook:6b49f3337709
+    environment:
+      - JUPYTER_TOKEN=dp4-g4
+    volumes:
+      - ./:/home/jovyan/work
+    ports:
+      - 10000:8888
+    container_name: dp4-g4

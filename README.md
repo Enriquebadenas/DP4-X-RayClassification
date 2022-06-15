@@ -2,7 +2,7 @@
 
 ## Grupo 4
     · Marta Castillo García
-    · Entique Badenas Cazorla
+    · Enrique Badenas Cazorla
 
 Data Project #4 - Clasificación de imágenes de radiografías según la anatomía radiografiada
 
